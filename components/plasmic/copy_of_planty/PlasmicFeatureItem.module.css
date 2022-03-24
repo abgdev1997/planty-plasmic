@@ -1,0 +1,119 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100vw;
+}
+.freeBox__q6AMz {
+  display: flex;
+  height: 100%;
+  justify-content: space-between;
+  overflow: hidden;
+  width: 100vw;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 128px;
+  padding-bottom: 128px;
+  background: url("/plasmic/copy_of_planty/images/tableBanner.jpeg") 0% 0% / cover;
+  min-height: 0;
+}
+.freeBox__xyDqi {
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 33%;
+  opacity: 0.95;
+  background: var(--token-QQdIvJFj1);
+  min-height: 0;
+}
+.freeBox___4RQjz {
+  max-width: 1140px;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__wUpNy {
+  flex-direction: column;
+  display: flex;
+  width: 100%;
+  max-width: 720px;
+  min-width: 0;
+  padding: 32px 24px;
+}
+.freeBox__wUpNy > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  min-width: 0;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.freeBox__wUpNy > :global(.__wab_flex-container) > *,
+.freeBox__wUpNy > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__wUpNy > :global(.__wab_flex-container) > picture > img,
+.freeBox__wUpNy
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 12px;
+}
+.text__zzJut {
+  position: relative;
+  color: var(--token-pPSeH1tbuu7cfZ);
+  font-size: 24px;
+  font-weight: 700;
+}
+.text___9Psj9 {
+  position: relative;
+  color: var(--token-pPSeH1tbuu7cfZ);
+}
+.freeBox__cBdOu {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.text___9UcSk {
+  color: var(--token-pPSeH1tbuu7cfZ);
+  font-size: 14px;
+}
+.text___30NwZ {
+  position: relative;
+  color: rgb(233, 156, 46);
+}
+.freeBox__yZly7 {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+}
+.freeBox__yZly7 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__yZly7 > :global(.__wab_flex-container) > *,
+.freeBox__yZly7 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__yZly7 > :global(.__wab_flex-container) > picture > img,
+.freeBox__yZly7
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.linkButton:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
