@@ -22,7 +22,7 @@ function Home() {
   // variant context providers. These wrappers may be moved to
   // Next.js Custom App component
   // (https://nextjs.org/docs/advanced-features/custom-app).
-  return <PlasmicHome ctaHero={<Button className="cta_hero" color="yellow"> <div>{'Empieza ya'} <ButtonArrowIcon></ButtonArrowIcon></div></Button>}/>;
+  return <PlasmicHome ctaHero={<Button className="cta_hero" color="yellow"> <div style={{display: "flex"}}>{'Empieza ya'} <ButtonArrowIcon></ButtonArrowIcon></div></Button>}/>;
 }
 
 export default Home;
