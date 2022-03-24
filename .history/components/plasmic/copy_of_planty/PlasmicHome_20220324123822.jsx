@@ -109,6 +109,7 @@ function PlasmicHome__RenderFunc(props) {
                         className={classNames(
                           "__wab_instance",
                           sty.button__qzoPi,
+                          color.red
                         )}
                       >
                         <div

@@ -108,7 +108,7 @@ function PlasmicHome__RenderFunc(props) {
                       <Button
                         className={classNames(
                           "__wab_instance",
-                          sty.button__qzoPi,
+                          sty.button__qzoPi
                         )}
                       >
                         <div
@@ -118,7 +118,7 @@ function PlasmicHome__RenderFunc(props) {
                             sty.text___33W9Y
                           )}
                         >
-                          {"Empieza ya"}
+                          {"See all plants"}
                         </div>
 
                         <ButtonArrowIcon
